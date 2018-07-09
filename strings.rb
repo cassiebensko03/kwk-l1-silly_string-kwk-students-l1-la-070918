@@ -1,2 +1,2 @@
 puts "sentient".upcase
-puts "sentient".validates_length_of
+puts "sentient".length
