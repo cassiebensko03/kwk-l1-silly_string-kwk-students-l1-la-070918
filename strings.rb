@@ -1,4 +1,4 @@
-puts "sentient"
+puts your_favorite_word="sentient"
 puts "sentient".upcase
 puts "IM NOT SHOUTING".downcase
 puts "supercalifragilisticexpialidocious".length
